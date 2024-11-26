@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<style>
+        body {
+            text-align: center;
+            margin: 20px;
+        }
+        a {
+            display: block;
+            margin: 10px 0;
+            text-decoration: none;
+            color: blue;
+            font-size: 20px;
+        }
+    </style>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Các bài thực hành tin học 12 Địa</title>
+</head>
+<body>
+    <h1>Trang Chính</h1>
+    <p>Chọn một trang web nhỏ để xem và đánh giá:</p>
+    <a href="C:\Users\Huy Võ\Thuchanhtin12\trang1.html">Trang Web Số 1</a>
+    <a href="C:\Users\Huy Võ\Thuchanhtin12\trang2.html">Trang Web Số 2</a>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdT32ZqDOR2agcsu_cbWkEAG4-j-tG9-zBYb2PlvS46s87_Nw/viewform?embedded=true" width="640" height="2153" frameborder="0" marginheight="0" marginwidth="0">Đang tải…</iframe>
+</body>
+</html>
